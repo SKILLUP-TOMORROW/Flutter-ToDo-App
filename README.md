@@ -14,3 +14,9 @@ A simple yet powerful To-Do List app built using Flutter that helps users manage
 ## 🚀 Installation
 1. Clone the repository:  
   flutter run
+2. Navigate to the project directory:
+3. 3. Install dependencies:
+   4. 4. Run the app:  
+
+
+
